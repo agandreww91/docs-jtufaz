@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-hx1pft.enginewlb.org/sitemap.xml
